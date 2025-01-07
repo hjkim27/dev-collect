@@ -1,3 +1,9 @@
+---
+title : docker composed sample
+date : 2023
+type: sample
+---
+
 ## docker-compsed.yml  파일 내용
 - 파일마다 변경이 필요한 부분
 - 도커이미지 검색 : https://hub.docker.com/_/openjdk/tags?page=1&name=11.0-jdk
